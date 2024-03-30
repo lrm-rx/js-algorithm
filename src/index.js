@@ -1,1 +1,2 @@
-console.log(111)
+// Stack
+import "./Stack";
